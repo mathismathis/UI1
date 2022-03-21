@@ -1,0 +1,64 @@
+.card-wrapper {
+    margin: 5% 0;
+  }
+  
+
+.custom-circle-image {
+  width: 10vw;
+  height: 10vw;
+}
+
+.custom-circle-image img {
+  object-fit: cover;
+}
+
+.card-body.text-center.mt-4 {
+    display: none;
+}
+
+.card-title {
+  letter-spacing: 1.1px;
+}
+
+a.navbar-brand.a {
+    font-size: 38px;
+    color: #2c6683;
+}
+
+.card-text {
+  font-family: MerriweatherRegular;
+  font-size: 22px;
+  line-height: initial;
+}
+
+.dropzone {
+  border-style: dashed;
+}
+
+
+.error {
+  font-family: MerriweatherRegular;
+  font-size: 30px;
+  line-height: initial;
+  color: blue;
+  text-align: center;
+}
+
+#classTable {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#classTable td, #classTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#classTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #2d362e;
+  color: white;
+}
